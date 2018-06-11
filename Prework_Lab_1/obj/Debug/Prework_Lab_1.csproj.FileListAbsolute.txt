@@ -1,0 +1,7 @@
+C:\Users\Bearrising\Desktop\C# Stuff\Prework_Lab_1\Prework_Lab_1\bin\Debug\Prework_Lab_1.exe.config
+C:\Users\Bearrising\Desktop\C# Stuff\Prework_Lab_1\Prework_Lab_1\bin\Debug\Prework_Lab_1.exe
+C:\Users\Bearrising\Desktop\C# Stuff\Prework_Lab_1\Prework_Lab_1\bin\Debug\Prework_Lab_1.pdb
+C:\Users\Bearrising\Desktop\C# Stuff\Prework_Lab_1\Prework_Lab_1\obj\Debug\Prework_Lab_1.csprojAssemblyReference.cache
+C:\Users\Bearrising\Desktop\C# Stuff\Prework_Lab_1\Prework_Lab_1\obj\Debug\Prework_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Bearrising\Desktop\C# Stuff\Prework_Lab_1\Prework_Lab_1\obj\Debug\Prework_Lab_1.exe
+C:\Users\Bearrising\Desktop\C# Stuff\Prework_Lab_1\Prework_Lab_1\obj\Debug\Prework_Lab_1.pdb
